@@ -1,7 +1,7 @@
 # Selamlar
 - Ben Ahmet Tuna 17 yaşındayım
 - 4 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
-- Discord adresim: DeadStriker#9999, [discord.gg/](davet link)
+- Discord adresim: DeadStriker#9999
 - Web Sitem: Yakında..
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
 - Everything you can imagine is real -
